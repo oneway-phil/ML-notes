@@ -23,7 +23,7 @@ maching learning notes
 生成结点node
 if D中的样本属于同一类别C 
    将node标注为C类结点
-##### 从A中选择最优划分属性
+从A中选择最优划分属性
 对每个属性的node生成分支，对样本子集进行划分
 输出：以node为根结点的决策树
   
