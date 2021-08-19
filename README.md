@@ -1,4 +1,5 @@
 # ML-notes
+# 机器学习
 maching learning notes
 
 ### 模型评估
@@ -7,7 +8,7 @@ maching learning notes
 
 
 
-# 线性模型
+### 线性模型
 
 
 
@@ -15,7 +16,7 @@ maching learning notes
 
 
 
-# 决策树（decision tree）
+### 决策树（decision tree）
 1. 学习流程
   
 
